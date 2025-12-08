@@ -1,0 +1,13 @@
+site_name: Modelos OSI y TCP/IP
+site_description: Docu sobre OSI vs TCP/IP
+site_author: ivan garrigues segui
+
+theme:
+  name: material
+
+nav:
+  - Inicio: index.md
+  - Modelo OSI: modelo_osi.md
+  - Modelo TCP/IP: modelo_tcpip.md
+  - Comparativa OSI vs TCP/IP: comparativa.md
+  - Encapsulación: encapsulacion.md
