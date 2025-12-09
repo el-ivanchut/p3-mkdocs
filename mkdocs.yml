@@ -1,6 +1,6 @@
 site_name: Modelos OSI y TCP/IP
-docs_dir: 'md'
-site_dir: 'docs'
+docs_dir: 'docs'
+site_dir: 'md'
 theme:
   name: material
 
