@@ -1,7 +1,6 @@
 site_name: Modelos OSI y TCP/IP
-site_description: Docu sobre OSI vs TCP/IP
-site_author: ivan garrigues segui
-
+docs_dir: 'md'
+site_dir: 'docs'
 theme:
   name: material
 
