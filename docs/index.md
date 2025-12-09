@@ -14,23 +14,7 @@ Guía sobre **los modelos de referencia OSI y TCP/IP**, fundamentales en el mund
 
 ---
 
-
-## Caja Awesomebox 1
-
-!!! info "Dato curioso"
-    El modelo OSI fue creado por la ISO en 1984 para estandarizar las comunicaciones de red.
-
----
-
-## Caja Awesomebox 2
-
-!!! tip "Consejo"
-    Memoriza las capas del modelo OSI usando la frase:  
-    **Please Do Not Throw Sausage Pizza Away** (de arriba abajo).
-
----
-
-## Enlaces útiles
+## Enlaces utiles
 
 - [ISO - Modelo OSI](https://www.iso.org)
 - [RFC oficial TCP/IP](https://www.rfc-editor.org/)
